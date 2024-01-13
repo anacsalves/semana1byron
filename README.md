@@ -1,7 +1,8 @@
 <h1>Tarefa byron semana 1</>
 
-#### Autores: [Ana Clara Souza Alves](https://github.com/anacsalves)
-              [Talles Alves](https://github.com/Tsplay25)
+#### Autores: 
+- ##### [Ana Clara Souza Alves](https://github.com/anacsalves)
+- ##### [Talles Alves](https://github.com/Tsplay25)
 
 <h2>Introdução</>
 
