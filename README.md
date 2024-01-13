@@ -44,10 +44,31 @@ Depois do governo banir o uso de superpoderes, o maior herói do planeta, o Sr. 
 
 ### 1.Interestelar
 
+![capa do filme Interestelar](./img/interestelar.jpg)
+
+Um dos melhores dos últimos tempos no quesito viagem no tempo. O longa-metragem conta a complexa história de Cooper, um piloto da NASA que tem a difícil tarefa de salvar a espécie humana da extinção. Num cenário de catástrofe, o planeta Terra começa a sofrer com crises ambientais sérias. A solução encontrada pela NASA é descobrir outro planeta onde os humanos possam habitar. A missão de Cooper, ao lado de outros astronautas, é descobrir qual planeta será a nossa futura casa e salvar a humanidade.Com uma trama complexa, o filme Interestelar levanta uma série de dilemas morais e éticos difíceis.
+
 ### 2.Trilogia Corpo Fechado
 
-### 3.Barbie a Princesa e a Plebeia
+![capa do filme Vidro](./img/trilogiaVidro.webp)
+
+A trilogia segue a jornada de David Dunn, um homem que descobre ter habilidades sobre-humanas após sobreviver a um acidente de trem. Ao longo dos filmes "Corpo Fechado", "Fragmentado" e "Vidro", ele enfrenta vilões como Elijah Price, também conhecido como Mr. Glass, e Kevin Wendell Crumb, que possui múltiplas personalidades. A narrativa se desdobra em uma trama intricada, revelando a interconexão entre os personagens e culminando em um confronto final na tentativa de revelar a existência de super-humanos ao mundo. A trilogia é marcada por reviravoltas surpreendentes e uma exploração única do conceito de super-heróis e vilões no contexto do mundo real.
+
+### 3.Barbie -A Princesa e a Plebeia
+
+![capa do filme da barbie](./img/Barbie_as_the_Princess_and_the_Pauper_poster.jpg)
+
+A melhor animação entre as duas listas.
+Em Barbie: A Princesa e a Plebeia, Anneliese, a princesa de um reino distante, é sequestrada pelo conselheiro do rei, Preminger. Erika, uma jovem plebeia que vive em um vilarejo próximo, é a única que pode salvá-la.As duas meninas são idênticas fisicamente, e Erika consegue se passar por Anneliese para enganar Preminger. Ela assume o lugar da princesa no reino e começa a lutar para salvar o dia. No final, Erika consegue derrotar Preminger e salvar Anneliese.
 
 ### 4.Parasita
 
+![capa do filme Parasita](./img/filmeParasita.jpg)
+
+Parasita é um filme sul-coreano de 2019 dirigido por Bong Joon-ho. O filme conta a história de uma família pobre que se infiltra na vida de uma família rica.A família Kim consegue enganar a família Park e se estabelecer na mansão deles. No entanto, a situação começa a se complicar quando os segredos e mentiras necessários para a ascensão social começam a vir à tona. O filme é uma crítica à desigualdade social na Coreia do Sul. Também explora temas como o parasitismo, a manipulação e o desejo de ascensão social.
+
 ### 5.A Pequena Sereia (1989)
+
+![capa do filme a pequena sereia](./img/Poster_A_Pequena_Sereia.webp)
+
+A Pequena Sereia, um clássico da Disney, conta a história de Ariel, uma princesa sereia que se apaixona por um príncipe humano. Para ficar com ele, ela faz um acordo com a bruxa do mar Úrsula e troca sua voz por pernas. Ariel precisa conquistar o amor do príncipe antes do prazo, ou perderá sua voz e se tornará uma serva de Úrsula para sempre.
