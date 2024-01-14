@@ -72,3 +72,7 @@ Parasita é um filme sul-coreano de 2019 dirigido por Bong Joon-ho. O filme cont
 ![capa do filme a pequena sereia](./img/Poster_A_Pequena_Sereia.webp)
 
 A Pequena Sereia, um clássico da Disney, conta a história de Ariel, uma princesa sereia que se apaixona por um príncipe humano. Para ficar com ele, ela faz um acordo com a bruxa do mar Úrsula e troca sua voz por pernas. Ariel precisa conquistar o amor do príncipe antes do prazo, ou perderá sua voz e se tornará uma serva de Úrsula para sempre.
+
+## 🎥 E quais são seus filmes preferidos?
+
+Envie um pull request e nos diga seu TOP 5 também! :smile:
