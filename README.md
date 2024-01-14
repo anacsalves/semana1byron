@@ -15,27 +15,32 @@
 
 #### 1. Eragon
 
-![capa do filme eragon](./img/eragon.webp)
+<img src="./img/eragon.webp" alt="capa do filme eragon" width=322px height = 478px>
+
 O Reino de Alagaësia é governado pelo maligno rei Galbatorix, um antigo Cavaleiro de Dragão que traiu seu povo e seus companheiros em busca de poder. Quando Eragon, um garoto órfão que vive em uma pequena fazenda, encontra uma pedra azul, seu destino muda, pois o objeto na verdade era um ovo de dragão do último sobrevivente da raça. A dragão fêmea Saphira nasce do ovo e Eragon se torna um Cavaleiro, que luta contra o Espectro Durza e o exército de Galbatorix, cumprindo uma antiga profecia.
 
 #### 2. A espada era a lei
 
-![capa do filme a espada era a lei](./img/espada.jpg){: width="322px" height="478px"}
+<img src="./img/espada.jpg" alt="capa do filme a espada era a lei" width=322px height = 478px>
+
 Adaptação da Disney da fábula sobre as origens humildes do Rei Arthur. Como uma criança órfã, Arthur era conhecido como Wart, que queria ajudar seu irmão adotivo Kay a ser um cavaleiro. Enquanto ajudava Kay em seu treinamento, Wart se deparou com uma cabana pertencente a Merlin, um mago desastrado, mas talentoso. Merlin faz o possível para convencer o menino que ele está destinado à grandeza e quando viaja com Kay para Londres para atender uma competição, eles descobrem que Merlin tinha razão.
 
 #### 3. Transformers (não sei definir qual :laughing:)
 
-![capa do filme transformers](./img/transformers.webp){: width="322px" height="478px"}
+<img src="./img/transformers.webp" alt="capa do filme transformers" width=322px height = 478px>
+
 O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.
 
 #### 4. Godzilla (2014)
 
-![capa do filme godzilla](./img/godzilla.jpg){: width="322px" height="478px"}
+<img src="./img/godzilla.jpg" alt="capa do filme godzilla" width=322px height = 478px>
+
 Um especialista em bombas da marinha norte-americana acaba de se reunir com a família em São Francisco, Estados Unidos, quando é forçado a ir para o Japão para ajudar seu pai. Logo, os dois se deparam com um grande acontecimento: Godzilla, o rei dos monstros, surge do mar para combater criaturas inimigas. Em uma luta pela supremacia, os monstros ameaçam a sobrevivência da humanidade. Por onde passam, deixam um rastro de destruição, rumo ao local da batalha final: São Francisco.
 
 #### 5. Os incríveis
 
-![capa do filme os incriveis](./img/incriveis.webp){: width="322px" height="478px"}
+<img src="./img/incriveis.webp" alt="capa do filme os incriveis" width=322px height = 478px>
+
 Depois do governo banir o uso de superpoderes, o maior herói do planeta, o Sr. Incrível, vive de forma pacata com sua família. Apesar de estar feliz com a vida doméstica, o Sr. Incrível ainda sente falta dos tempos em que viveu como super-herói, e sua grande chance de entrar em ação novamente surge quando um velho inimigo volta a atacar. Só que agora ele precisa contar com a ajuda de toda a família para vencer o vilão.
 
 <h2>Top 5 - Ana:</>
@@ -72,3 +77,7 @@ Parasita é um filme sul-coreano de 2019 dirigido por Bong Joon-ho. O filme cont
 ![capa do filme a pequena sereia](./img/Poster_A_Pequena_Sereia.webp)
 
 A Pequena Sereia, um clássico da Disney, conta a história de Ariel, uma princesa sereia que se apaixona por um príncipe humano. Para ficar com ele, ela faz um acordo com a bruxa do mar Úrsula e troca sua voz por pernas. Ariel precisa conquistar o amor do príncipe antes do prazo, ou perderá sua voz e se tornará uma serva de Úrsula para sempre.
+
+## 🎥 E quais são seus filmes preferidos?
+
+Envie um pull request e nos diga seu top 10 também! :smile:
